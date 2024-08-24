@@ -7,7 +7,7 @@ I'm a Computer Science student passionate about learning and building things tha
 - 🚀 **Previous Projects:** IoT-based Smart Parking System, Smart Emergency Traffic Management System, and Uber Car Fare Prediction Model
 - 💡 **Interests:** Full Stack Development, Problem-solving, and exploring new programming languages
 - 🎯 **Goal:** To make meaningful contributions in the tech industry
-- 📫 **To reach me:** [Gmail](vangalasyasri@gmail.com)
+- 📫 **To reach me:** [Gmail](mailto:vangalasyasri@gmail.com)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vanga-lasya-sri-a45261237/)
